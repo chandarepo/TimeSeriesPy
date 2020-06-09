@@ -1,2 +1,1 @@
 # TimeSeriesPy
-.DS_Store
